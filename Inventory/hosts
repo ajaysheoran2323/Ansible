@@ -1,0 +1,13 @@
+[loadbalancer]
+lb01
+lb02
+
+[db-group]
+db-01
+db-01
+
+
+[web-group]
+10.12.13.18
+192.168.0.2
+173.90.78.1
